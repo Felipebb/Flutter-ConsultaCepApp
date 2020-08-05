@@ -1,6 +1,6 @@
 # Consulta de Cep App
 
-Um pequeno projeto em flutter para busca/consulta de ceps pelo usuarios, onde é retornado algumas informações sobre o local ao qual está vinculado aquele cep.
+Um pequeno projeto em flutter para busca/consulta de ceps pelos usuarios, onde é retornado algumas informações sobre o local ao qual está vinculado aquele cep.
 
 ## Comentários
 
