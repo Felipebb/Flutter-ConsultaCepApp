@@ -2,7 +2,7 @@
 
 Um pequeno projeto em flutter para busca/consulta de ceps pelos usuarios, onde é retornado algumas informações sobre o local ao qual está vinculado aquele cep.
 
-## Comentários
+## Sobre
 
 O objetivo deste projeto foi a utilização da gerencia de estado do aplicativo em flutter com bloc, e também do consumo de uma API publica para consulta do Cep que o usuario está buscando. Além disto, foi usado o pacote de fontes do google para textos.
 
